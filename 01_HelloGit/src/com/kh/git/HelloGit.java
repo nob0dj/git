@@ -13,8 +13,7 @@ public class HelloGit {
 		//checkout : 선택한 브랜치로 작업이동
 		System.out.println("new branch : branchTest");
 		System.out.println("added From master!!");
-		
-		
+		System.out.println("add from branchTest");
 	}
 
 }
