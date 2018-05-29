@@ -12,7 +12,7 @@ public class HelloGit {
 		//Team-SwitchTo [new branch]에서 branchTest입력후, checkout함.
 		//checkout : 선택한 브랜치로 작업이동
 		System.out.println("new branch : branchTest");
-		
+		System.out.println("add from branchTest");
 	}
 
 }
