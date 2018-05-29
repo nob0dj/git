@@ -11,7 +11,7 @@ public class HelloGit {
 		//프로젝트 루트에서 우클릭, 
 		//Team-SwitchTo [new branch]에서 branchTest입력후, checkout함.
 		//checkout : 선택한 브랜치로 작업이동
-		System.out.println("I'm on branchTest!");
+		System.out.println("new branch : branchTest");
 		
 	}
 
