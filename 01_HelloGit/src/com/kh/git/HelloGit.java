@@ -17,6 +17,8 @@ public class HelloGit {
 		
 		//원격저장소 push후
 		System.out.println("message from master!");
+		
+		System.out.println("imac테스");
 	}
 
 }
