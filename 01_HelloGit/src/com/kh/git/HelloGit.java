@@ -14,11 +14,19 @@ public class HelloGit {
 		System.out.println("new branch : branchTest");
 		System.out.println("added From master!!");
 		System.out.println("add from branchTest");
-		
 		//원격저장소 push후
 		System.out.println("message from master!");
 		
 		System.out.println("imac테스");
+
+	}
+	
+	public void test(){
+		System.out.println("branchTest : test메소드생성!!");
+		System.out.println(".gitignore not working!!");
+		System.out.println(".gitignore not working2!!");
+		System.out.println(".gitignore not working3!!");
+
 	}
 
 }
