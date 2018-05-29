@@ -20,6 +20,8 @@ public class HelloGit {
 	public void test(){
 		System.out.println("branchTest : test메소드생성!!");
 		System.out.println(".gitignore not working!!");
+		System.out.println(".gitignore not working2!!");
+		
 	}
 
 }
