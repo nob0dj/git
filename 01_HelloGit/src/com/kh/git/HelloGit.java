@@ -14,6 +14,9 @@ public class HelloGit {
 		System.out.println("new branch : branchTest");
 		System.out.println("added From master!!");
 		System.out.println("add from branchTest");
+		
+		//원격저장소 push후
+		System.out.println("message from master!");
 	}
 
 }
