@@ -17,6 +17,9 @@ public class HelloGit {
 		
 		//원격저장소 push후
 		System.out.println("message from master!");
+		
+		//fork한 상태에서 수정!!
+		System.out.println("fork해서 수정하고 pull request");
 	}
 
 }
