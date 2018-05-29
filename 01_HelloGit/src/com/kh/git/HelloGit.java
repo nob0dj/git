@@ -14,6 +14,11 @@ public class HelloGit {
 		System.out.println("new branch : branchTest");
 		System.out.println("added From master!!");
 		System.out.println("add from branchTest");
+		
+	}
+	
+	public void test(){
+		System.out.println("branchTest : test메소드생성!!");
 	}
 
 }
